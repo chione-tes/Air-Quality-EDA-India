@@ -1,5 +1,6 @@
 # Air-Quality-EDA-India
 A comprehensive data analysis project examining air pollution trends across major Indian cities from 2015-2020
+
 You can explore the full, interactive analysis directly in your browser using Google Colab. The notebook is fully executable and includes dynamic Plotly charts that allow you to zoom, pan, and hover for detailed data points.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chione-tes/Air-Quality-EDA-India/blob/main/Air-Quality-EDA-India.ipynb)
